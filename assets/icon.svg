@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_5-2);
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_5);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_5" data-name="Degradado sin nombre 5" x1="485.16" y1="-1493.29" x2="169.42" y2="-1876.44" gradientTransform="translate(1254.62 -641.68) rotate(44.98) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3761ff"/>
+      <stop offset=".04" stop-color="#336afe"/>
+      <stop offset=".27" stop-color="#219af8"/>
+      <stop offset=".49" stop-color="#13bff4"/>
+      <stop offset=".69" stop-color="#08daf1"/>
+      <stop offset=".86" stop-color="#02eaef"/>
+      <stop offset="1" stop-color="#00f0ee"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_5-2" data-name="Degradado sin nombre 5" x1="283.81" y1="-958.02" x2="996.16" y2="-1710.35" gradientTransform="translate(0 -843) scale(1 -1)" xlink:href="#Degradado_sin_nombre_5"/>
+  </defs>
+  <rect class="cls-2" x="224.3" y="612.97" width="319.74" height="319.74" transform="translate(-433.86 497.73) rotate(-44.98)"/>
+  <path class="cls-1" d="M384.24,1l-226.15,226.3,498.65,498.73,134.97-135.06,20.75-20.76c17.52-19.37,27.91-44.14,29.45-70.22-.92-24.75-9.91-48.51-25.61-67.66L384.24,1Z"/>
+</svg>
